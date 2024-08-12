@@ -68,6 +68,7 @@ body {
 .perfume-text {
 	color: hsl(228, 12%, 48%);
 	font-size: 12px;
+	letter-spacing: 5px;
 }
 
 .bold-text {
